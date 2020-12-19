@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ToDoApp</string>
+    <string name="fab_add_todo">Add</string>
+    <string name="hint_description">To do…</string>
+    <string name="text_check_box_important">important</string>
+    <string name="button_create">Add to do</string>
+    <string name="toast_empty_field">Cannot create to do with empty field!</string>
+    <string name="alert_dialog_delete_title">Delete Item</string>
+    <string name="alert_dialog_delete_positive">Delete</string>
+    <string name="alert_dialog_delete_negative">Cancel</string>
+    <string name="alert_dialog_delete_body">Are you sure you want to delete %1$s?</string>
+    <string name="snackbacr_delete_item">Deleting %1$s</string>
+    <string name="snackbar_undo">Undo</string>
+    <string name="search">Search</string>
+    <string name="sort">Order</string>
+    <string name="menu_show_completed">Show completed</string>
+    <string name="hint_search">Search to-dos…</string>
+    <string name="menu_delete">Delete</string>
+    <string name="menu_update">Edit</string>
+    <string name="menu_update_save">Save</string>
+    <string name="menu_important_first">Important first</string>
+    <string name="shared_pref_key_show_completed">show_completed_key</string>
+    <string name="shared_pref_key_important_first">important_first_key</string>
+    <string name="shared_pref_key_sort_dsc">sort_dsc_key</string>
+</resources>
